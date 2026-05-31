@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorspdate",
+        "uuid": 16056225,
+        "checksum": "dvy7wr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
